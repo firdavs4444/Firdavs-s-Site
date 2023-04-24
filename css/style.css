@@ -1,0 +1,168 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 33px;
+    color: rgb(69, 178, 154);
+    font-family: "Helvetica Neue Light";
+    font-family: 'Marck Script', cursive;
+    font-family: 'Parisienne', cursive;
+}
+
+.pro {
+    color: rgb(69, 178, 154);
+}
+
+.top-contenr {
+    height: 558px;
+    padding-top: 100px;
+    background-color: #E4F9F5;  
+}
+
+.cloud1{
+    position: absolute;
+    top: 100px;
+    right: 200px;
+    top: 250px;
+}
+
+.cloud2 {
+    position: absolute;
+    top: 300px;
+    bottom: 250px;
+    left: 200px;
+}
+
+
+.about {
+    font-size: 140%;
+    display:inline-block;
+    position: relative;
+    bottom: 45px;
+    color: #4ab39e;
+    margin-left: 750px;
+    font-family: serif;
+    text-decoration: none;
+}
+
+.about:hover {
+    color: #21564B;
+}
+
+.work {
+    font-size: 140%;
+    display:inline-block;
+    position: relative;
+    bottom: 45px;
+    margin: 0px 16.8px;
+    color: #4ab39e;
+    font-family: serif;
+}
+
+.work:hover {
+    color: #21564B;
+}
+
+.notes {
+    font-size: 140%;
+    display:inline-block;
+    position: relative;
+    bottom: 45px;
+    color: #4ab39e;
+    font-family: serif;
+}
+
+.notes:hover {
+    color: #21564B;
+}
+
+p {
+    text-align: left;
+    font-size: 25px;
+    color: #3E3E3E;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.code-icon {
+    width: 12%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.web-icon {
+    width: 12%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    margin: 100px auto;
+    width: 60%;
+    text-align: left;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: none;
+    color: #EAF6F6;
+    margin-top: 35px;
+}
+.footer-message {
+    text-align: center;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    color: #4ab39e;
+}
+
+h2 {
+    color: #4ab39e;
+    font-size: 50px;
+}
+
+.footer-link {
+    color: #11999e;
+    text-decoration: none;
+    margin: auto 15px auto 15px;
+}
+
+.pro {
+    text-align: center;
+}
+
+.bottom-container {
+    background-color:#66bebf;
+    height: 50px;
+    padding: 40px;
+}
+
+.color-h3 {
+    color:#11999e;
+
+}
+
+hr.hr1 {
+    width: 65px;
+    border-top: 9px dotted red;
+    border-bottom: none;
+    margin: 2px auto;
+    border-color: #EAF6F6;
+}
+
+
+.contact-me {
+    margin-bottom: 73px;
+}
+
+.text-h2 {
+    font-size: 30px;
+    margin-top: 50px;
+}
